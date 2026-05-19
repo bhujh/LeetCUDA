@@ -29,8 +29,3 @@ build*
 .idea
 .github/copilot-instructions.md
 AGENTS.md
-*.aux
-*.out.pyg
-.plans
-.tmp
-*.o
